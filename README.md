@@ -9,4 +9,4 @@ The first chapter photo I am presenting below is my first true documentary photo
 
 下面我展示的第一章照片是我真正意义上的第一张纪实摄影作品。（虽然你也可以把它理解为一张街拍作品，但是我更倾向于以纪实作品来标记它）
 
-![城市角落里的修补者](/picture_folder/城市角落里的修补者.jpg)
+![城市角落里的修补者](/人物、动物/城市角落里的修补者.jpg)城市角落里的修补者
